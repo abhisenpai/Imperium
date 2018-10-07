@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947850554990",
+    "firebase_url": "https://imperium-d2750.firebaseio.com",
+    "project_id": "imperium-d2750",
+    "storage_bucket": "imperium-d2750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947850554990:android:3b7b73a73a400ad5",
+        "android_client_info": {
+          "package_name": "com.example.android.imperium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947850554990-ef7q3pa16qh1lmh545dtpbe2oohpogkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfONQtRVeUsr4fxfXNky8WI1541boWhHw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
